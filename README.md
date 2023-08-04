@@ -324,6 +324,7 @@ Now type exit to came out from container.
 It’s time to create a VxLAN tunnel to establish communication between two hosts running containers. Then attch the vxlan to the docker bridge. Make sure the VNI ID is the same for both hosts.
 
 For Host 1:
+
     # check the bridges list on the hosts
     brctl show
     
