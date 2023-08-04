@@ -152,6 +152,7 @@ For Host 1:
     valid_lft forever preferred_lft forever
 
 For Host 2:
+
     # Check interfaces
     ip addr
 
